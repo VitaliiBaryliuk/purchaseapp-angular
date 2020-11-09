@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "First Angular 10 Project",
   "author": "Eugene Popov metanit.com",
+  "homepage": "https://vitaliybaryliuk.github.io/purchaseapp-angular",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
